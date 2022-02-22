@@ -1,14 +1,14 @@
 
- ✨ 
- “Even the finest sword plunged into salt water will eventually rust.”
-― Sun Tzu 
-✨ 
+> ✨ 
+ “**_Even the finest sword plunged into salt water will eventually rust.”_**
+ Sun Tzu ✨ 
 
 
 
 ![](https://github.com/Lalmi-Issam/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Lalmi-Issam/github-stats/blob/master/generated/languages.svg)
 
+ ######  Special Thanks to [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 <!--
 **Lalmi-Issam/LalmI-Issam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
